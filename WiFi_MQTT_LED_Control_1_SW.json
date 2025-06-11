@@ -20,8 +20,8 @@
     {
         "id": "1c809b05dead725d",
         "type": "mqtt-broker",
-        "name": "broker.hivemq.com",
-        "broker": "broker.hivemq.com",
+        "name": "broker.emqx.io",
+        "broker": "broker.emqx.io",
         "port": "1883",
         "clientid": "",
         "autoConnect": true,
