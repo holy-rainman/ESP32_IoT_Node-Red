@@ -11,7 +11,7 @@ PubSubClient client(espClient);
 
 const char* ssid = "aim";                   
 const char* password = "123456abc";         
-const char* mqtt_server = "broker.hivemq.com";
+const char* mqtt_server = "broker.emqx.io";
 
 //=========================================== WiFi & MQTT SETUP BEGIN ===========================================
 char tx2buf[100];
