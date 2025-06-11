@@ -9,8 +9,8 @@ PubSubClient client(espClient);
 
 #define LedPin      19                        
 
-const char* ssid = "aim";                   
-const char* password = "123456abc";         
+const char* ssid = "YOUR SSID";                   
+const char* password = "YOUR PASSWORD";         
 const char* mqtt_server = "broker.hivemq.com";
 
 //=========================================== WiFi & MQTT SETUP BEGIN ===========================================
